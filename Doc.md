@@ -7,6 +7,10 @@
 |------------|---------------|-----------|-----------------|-----------------|----------------------------|
 | NOC Team | 01-12-2024   | 1.0       | Rahul Sharma     | 02-12-2024      | Initial POC documentation  |
 
+# Introduction 
+
+Panopta is a comprehensive monitoring solution that provides real-time insights into the performance and availability of your infrastructure. It's ideal for monitoring servers, applications, network devices, and more, offering proactive alerts to ensure high uptime and optimal performance.
+
 ---
 # Panopta Alerting Methods
 
@@ -92,6 +96,21 @@ This table summarizes the different types of alerts and how they can be used wit
 ![image](https://github.com/user-attachments/assets/99df8253-2962-4b0b-80db-c87258f9da11)
 
 
+| **Feature**              | **Included in Basic Plan** | **Included in Advanced Plan** | **Additional Cost**          |
+|---------------------------|----------------------------|--------------------------------|-------------------------------|
+| **Email Alerts**          | ✔ Unlimited               | ✔ Unlimited                   | None                         |
+| **SMS Alerts**            | Limited or Not Included   | ✔ Included                    | Per SMS (e.g., $0.10–$0.20)  |
+| **Phone Call Alerts**     | Limited or Not Included   | ✔ Included                    | Per Call (e.g., $0.20–$0.50) |
+| **Slack/MS Teams Alerts** | Limited                   | ✔ Included                    | None for Premium Plans       |
+| **Number of Contacts**    | Limited (e.g., 5 users)   | ✔ Expanded (10+ users)        | Additional users: $5–$10/mo  |
+| **Third-Party Integrations** (PagerDuty, etc.) | Not Included           | ✔ Included                    | Integration-specific costs   |
+| **Custom Escalation Rules**| Basic                    | ✔ Advanced                    | May require premium plans    |
+| **Incident Analytics**    | Not Included             | ✔ Included                    | Included with premium plans  |
+
+### Monthly Costs:
+1. **Basic Plan**: $50–$150/month (email alerts, limited contacts, no SMS/calls).  
+2. **Advanced Plan**: $200–$500/month (includes advanced alerting, unlimited email, SMS/calls, and integrations).  
+3. **Add-Ons**: SMS/phone usage or additional recipients may increase costs.
 
 
 
@@ -159,16 +178,6 @@ This table summarizes the different types of alerts and how they can be used wit
 
 ---
 
-## Testing and Validation
-
-| Test Case | Description                     | Expected Outcome                                      | Status |
-|-----------|---------------------------------|------------------------------------------------------|--------|
-| TC1       | Check server uptime monitoring  | Uptime should reflect 99.99%.                        | ✅ Pass |
-| TC2       | Trigger CPU usage alert         | Alert should trigger if CPU exceeds 80%.             | ✅ Pass |
-| TC3       | Integration with Slack          | Notification should appear in the specified channel. | ✅ Pass |
-| TC4       | Downtime alert for MySQL        | Alert should trigger if MySQL stops responding.      | ✅ Pass |
-
----
 
 ## Troubleshooting
 
@@ -181,17 +190,12 @@ This table summarizes the different types of alerts and how they can be used wit
 
 ---
 
-## Final Output
-
-Once the setup is complete and all tests have passed, the monitoring dashboard will display real-time metrics and alerts for monitored resources.
-
----
 
 ## Contact Information
 
 | Name       | Email Address                  |
 |------------|--------------------------------|
-| DevOps Team| devops-team@example.com        |
+| NOC Team| rahul.sharma@tiket.com       |
 
 ---
 
