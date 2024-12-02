@@ -63,6 +63,24 @@ This table summarizes the different types of alerts and how they can be used wit
 
 ## Installation Steps
 
+![image](https://github.com/user-attachments/assets/73fae7d3-5bb0-44ae-885a-f0e6e0e6daf9)
+
+![image](https://github.com/user-attachments/assets/56c32eee-954d-4419-8b6d-4a97faca1755)
+
+![image](https://github.com/user-attachments/assets/f65a8a45-994f-4cb2-ab84-4dd46d07c394)
+
+![image](https://github.com/user-attachments/assets/ceeb628a-ad8f-4cb4-b3fc-93580ed55a03)
+
+![image](https://github.com/user-attachments/assets/3b8049a3-75e6-41c3-ad43-440d00551aba)
+
+![image](https://github.com/user-attachments/assets/4df5894d-52e5-4d98-9b79-caba13456625)
+
+![image](https://github.com/user-attachments/assets/799a2764-c605-4f8c-99b2-11cf35293fa0)
+
+
+
+
+
 1. **Add Panopta Agent Repository**  
    ```bash
    curl -s https://monitoring-api.panopta.com/agent/setup.sh | sudo bash
