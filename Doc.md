@@ -8,6 +8,20 @@
 | NOC Team | 01-12-2024   | 1.0       | Rahul Sharma     | 02-12-2024      | Initial POC documentation  |
 
 ---
+# Panopta Alerting Methods
+
+This document summarizes the different types of alerts available in Panopta and their use cases.
+
+| **Alert Type**               | **Description**                                                                 | **Use Case**                                                                        |
+|------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| **Phone Call Alerts**        | Sends voice alerts to notify the team about critical incidents, requiring immediate attention. | Used for high-priority incidents such as server failures, outages, etc.            |
+| **SMS Alerts**               | Sends short text message notifications for quick issue identification and response. | Ideal for on-the-go notifications, especially when away from the desk.             |
+| **Email Alerts**             | Sends detailed emails with information about the issue, including logs and recommendations for resolution. | Best for incidents requiring more details or when internet is available.           |
+| **Third-Party Integrations** | Integrates with platforms like Slack, PagerDuty, Microsoft Teams, and OpsGenie for enhanced communication. | Streamlines notifications into collaboration tools for better team coordination.   |
+
+This table summarizes the different types of alerts and how they can be used within the Panopta monitoring system.
+
+
 
 ## Table of Contents
 
