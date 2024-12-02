@@ -77,6 +77,23 @@ This table summarizes the different types of alerts and how they can be used wit
 
 ![image](https://github.com/user-attachments/assets/799a2764-c605-4f8c-99b2-11cf35293fa0)
 
+![image](https://github.com/user-attachments/assets/c48e654f-148c-4430-a941-c8059535eb2d)
+
+![image](https://github.com/user-attachments/assets/982c16ba-b600-4a4d-b08d-760d22a4f30f)
+
+![image](https://github.com/user-attachments/assets/440e1cea-857f-42aa-b73a-86ba0bc0d44d)
+
+![image](https://github.com/user-attachments/assets/71004a64-bdb9-4f99-b733-f6c51cf6a198)
+
+![image](https://github.com/user-attachments/assets/84af2384-e0ef-48d9-88a6-5c8a05abb483)
+
+
+
+![image](https://github.com/user-attachments/assets/99df8253-2962-4b0b-80db-c87258f9da11)
+
+
+
+
 
 
 
