@@ -2,7 +2,7 @@
 # POC for Panopta
 ![image](https://github.com/user-attachments/assets/2f9b8e82-e143-43b8-982d-89c3950ce7a6)
 
-
+.
 | Author     | Created on    | Version   | Last updated by | Last edited on  | Comment                    |
 |------------|---------------|-----------|-----------------|-----------------|----------------------------|
 | NOC Team | 01-12-2024   | 1.0       | Rahul Sharma     | 02-12-2024      | Initial POC documentation  |
